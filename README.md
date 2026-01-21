@@ -24,5 +24,4 @@ This project allows users to play songs, move forward/backward, and seek through
 
 
 
-*<img width="949" height="434" alt="result" src="https://github.com/user-attachments/assets/a8c94f79-54a0-4e98-91e1-9439a1029b8a" />
-*
+<img width="949" height="434" alt="result" src="https://github.com/user-attachments/assets/a8c94f79-54a0-4e98-91e1-9439a1029b8a" />
