@@ -28,3 +28,9 @@ A simple and responsive **Music Player** built using **HTML, CSS, and JavaScript
 - **HTML5 Audio API** – Playing and controlling the audio
 
 ---
+
+## 📸 Screenshot
+
+<img width="949" height="434" alt="result" src="https://github.com/user-attachments/assets/439888a9-9147-4ddd-a893-99bf9221f5c2" />
+
+---
