@@ -19,3 +19,12 @@ A simple and responsive **Music Player** built using **HTML, CSS, and JavaScript
 - ⚡ Built using vanilla JavaScript
 
 ---
+
+## 🛠️ Technologies Used
+
+- **HTML5** – Structure of the music player
+- **CSS3** – Styling, layout, and responsive design
+- **JavaScript** – Music controls and player functionality
+- **HTML5 Audio API** – Playing and controlling the audio
+
+---
