@@ -46,3 +46,20 @@ A simple and responsive **Music Player** built using **HTML, CSS, and JavaScript
 7. The song title, artist name, and image are displayed on the player.
 
 ---
+
+## 🎯 Purpose of the Project
+
+This project was created to practice and improve JavaScript skills, especially:
+
+- Working with the HTML5 Audio API
+- DOM manipulation
+- Event handling
+- Play and pause functionality
+- Controlling audio playback
+- Working with audio duration and current time
+- Updating the progress bar
+- Using JavaScript to control media
+- Building interactive user interfaces
+- Responsive web design
+
+---
