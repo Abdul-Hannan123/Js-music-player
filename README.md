@@ -34,3 +34,15 @@ A simple and responsive **Music Player** built using **HTML, CSS, and JavaScript
 <img width="949" height="434" alt="result" src="https://github.com/user-attachments/assets/439888a9-9147-4ddd-a893-99bf9221f5c2" />
 
 ---
+
+## 🎮 How It Works
+
+1. Open the music player in your browser.
+2. Click the **Play** button to start the song.
+3. Click the **Pause** button to pause the song.
+4. Use the **Forward** button to move ahead in the track.
+5. Use the **Backward** button to move back in the track.
+6. Drag or click on the **progress timeline** to move to a specific part of the song.
+7. The song title, artist name, and image are displayed on the player.
+
+---
