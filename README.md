@@ -67,3 +67,16 @@ This project was created to practice and improve JavaScript skills, especially:
 ## 🔮 Future Improvements
 
 Some possible improvements for this project include:
+
+- 🎶 Add multiple songs
+- 📃 Create a playlist
+- ⏭️ Automatically play the next song
+- ⏮️ Add previous song functionality
+- 🔀 Add shuffle mode
+- 🔁 Add repeat mode
+- 🔊 Add volume control
+- ❤️ Add favorite songs
+- 📱 Improve mobile controls
+- 🌙 Add dark mode
+
+---
