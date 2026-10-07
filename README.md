@@ -63,3 +63,7 @@ This project was created to practice and improve JavaScript skills, especially:
 - Responsive web design
 
 ---
+
+## 🔮 Future Improvements
+
+Some possible improvements for this project include:
